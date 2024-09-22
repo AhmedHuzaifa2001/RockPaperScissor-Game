@@ -15,7 +15,7 @@ This is a simple Rock-Paper-Scissor game created using HTML, CSS, and JavaScript
 
 ## How to Play
 1. Clone the repository or download the files.
-2. Open the `index.html` file in your browser.
+2. Open the `RockPaperScissor.html` file in your browser.
 3. Choose Rock, Paper, or Scissors by clicking the respective button.
 4. The result of the game will be displayed on the screen.
 
